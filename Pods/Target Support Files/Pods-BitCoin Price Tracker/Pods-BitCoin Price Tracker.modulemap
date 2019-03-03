@@ -1,0 +1,6 @@
+framework module Pods_BitCoin_Price_Tracker {
+  umbrella header "Pods-BitCoin Price Tracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
